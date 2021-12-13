@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-
     int card1, card2, card3;
 
     cin >> card1 >> card2;

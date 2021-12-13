@@ -9,10 +9,12 @@ int main () {
 
     cin >> loop;
     cin.get();
+
     while (loop) {
         getline(cin, curso);
         loop --;
     }
     cout << "Ciencia da Computacao" << endl;
+
     return 0;
 }
