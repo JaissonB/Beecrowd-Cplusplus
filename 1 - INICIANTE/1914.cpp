@@ -16,7 +16,6 @@ int main() {
         cin >> valor[0] >> valor[1];
 
         if ((valor[0] + valor[1]) % 2) {
-                cout << valor[0] + valor[1] % 2 << endl;
             for (int i = 0; i < 2; i++) {
                 if (parOuImpar[i] == "IMPAR") {
                     cout << nome[i] << endl;
