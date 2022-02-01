@@ -1,4 +1,4 @@
-# Beecrowd - Questions with C++ </br>
+# Beecrowd - Questions with C++ (C plusplus)</br>
 <div>
  <a href="https://www.beecrowd.com.br/judge/"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" height="100"></a>
 </div>
