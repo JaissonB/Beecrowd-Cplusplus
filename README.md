@@ -44,7 +44,7 @@ int main() {
 - Para desenvolver estas soluções utilizo sempre o CodeBlocks, que é especificamente para programar em C ou C++ e pode ser instalado já com um compilador, que geralmente é o GCC (Gnu C Compiler). Sempre usei esse ambiente para programar em C++ desde o primeiro dia na faculdade, mesmo ele não sendo um dos mais atuais, supre bem a necessidade de alguém como eu que só quer treinar e criar programas simples.
  
 #### Me:
- - Sou desenvolverdor Junior volltado para o frontend.
+ - Sou desenvolverdor Junior voltado para o frontend.
  - Curso o 5° semestre de Ciência da Computação, na 'Universidade Regional Integrada do Alto Uruguai e das Missões' - Campus de Erechim.
  - Minha linguagem favorita até o momento é o JavaScript onde sinto que possuo maior conhecimento.
  
