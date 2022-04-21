@@ -60,4 +60,4 @@ int main() {
 | Language | Repository |
 | ---  | --- |
 | C++  | [Repo C++](https://github.com/JaissonB/Beecrowd-Cplusplus) |
-| SQL  | [Repo C++](https://github.com/JaissonB/Beecrowd-SQL) |
+| SQL  | [Repo SQL](https://github.com/JaissonB/Beecrowd-SQL) |
